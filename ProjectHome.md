@@ -1,0 +1,1 @@
+Logs temperature with the Raspberry Pi and an Senserion SHT21 sensor.
